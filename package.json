@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node track.js",
+    "start": "node serve.js",
     "build": "vite build",
     "dev": "vite"
   },
