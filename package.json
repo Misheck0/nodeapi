@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node serve.js",          // Or use "server.js" if you add Express for API
+    "start": "node track.js",
     "build": "vite build",
     "dev": "vite"
   },
